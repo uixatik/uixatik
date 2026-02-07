@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Atikur Rahman.
 ### UI/UX Designer & Researcher
-##### Focused on research-driven, human-centered design solutions
+Focused on research-driven, human-centered design solutions
 
 
 ![cover](https://github.com/user-attachments/assets/6778ddb3-23a5-4fd7-846d-79c4689e787a)
