@@ -1,6 +1,9 @@
+# 👋 Hi, I’m Atik.
+### UI/UX Designer and Researcher
+
+
 ![cover](https://github.com/user-attachments/assets/6778ddb3-23a5-4fd7-846d-79c4689e787a)
 
-## 👋 Hi, I’m a UX/UI Designer.
 
 I help businesses and product teams design clear, intuitive, and scalable digital experiences across websites, web apps, and mobile applications.
 
