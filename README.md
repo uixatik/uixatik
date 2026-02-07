@@ -28,5 +28,5 @@ As a freelance partner, I value clear communication, realistic timelines, and hi
 
 💬 Open to collaboration: Feel free to reach out and start a conversation.
 
-[<img src='https://static.vecteezy.com/system/resources/thumbnails/066/118/528/small_2x/adobe-portfolio-icon-app-logo-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png' alt='Protfolio' height='120'>](https://uixatik.myportfolio.com) 
+[<img src='https://static.vecteezy.com/system/resources/thumbnails/066/118/528/small_2x/adobe-portfolio-icon-app-logo-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png' alt='Protfolio' height='80'>](https://uixatik.myportfolio.com) 
 
