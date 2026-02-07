@@ -1,16 +1,27 @@
-## Hi there 👋
+![cover](https://github.com/user-attachments/assets/6778ddb3-23a5-4fd7-846d-79c4689e787a)
 
-<!--
-**uixatik/uixatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I’m a UX/UI Designer.
 
-Here are some ideas to get you started:
+I help businesses and product teams design clear, intuitive, and scalable digital experiences across websites, web apps, and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My philosophy is simple:
+User-first design reduces rework, saves development time, and lowers business risk.
+If we understand users early, everything downstream moves faster.
+
+What I do
+
+-UX/UI Design – Thoughtful, usable interfaces for web, mobile, and SaaS products
+-UX Research & Product Audits – Identifying usability gaps, user needs, and growth opportunities
+-Wireframing & Prototyping – Turning ideas into testable, interactive flows
+-Information Architecture (IA) – Structuring content and features for clarity and ease of use
+
+How I work
+
+-Research-led, not guess-led
+-Collaborate with developers and stakeholders
+-Focused on clarity, usability, and real-world constraints
+
+As a freelance partner, I value clear communication, realistic timelines, and high-quality delivery. No fluff—just practical design that works.
+
+🔗 Portfolio / Case Studies: https://uixatik.myportfolio.com
+💬 Open to collaboration: Feel free to reach out and start a conversation.
