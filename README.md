@@ -24,4 +24,5 @@ How I work
 As a freelance partner, I value clear communication, realistic timelines, and high-quality delivery—no fluff—just practical design that works.
 
 🔗 Portfolio / Case Studies: https://uixatik.myportfolio.com
+
 💬 Open to collaboration: Feel free to reach out and start a conversation.
